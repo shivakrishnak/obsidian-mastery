@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4be913c5802aef4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f057e4736b688688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d295869f0d66f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian-Zettelkasten-Setup-Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian-Zettelkasten-Setup-Guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feab674ad363261b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e19780f2ea67417b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b65848ad32956a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57f09d7ad1473fe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9c6459e65e40118",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68568efac9a17a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad67dd38115c1c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca742cdb06d24047",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian-Zettelkasten-Setup-Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian-Zettelkasten-Setup-Guide"
+            }
+          },
+          {
+            "id": "a89679334059e8b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian-Zettelkasten-Setup-Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian-Zettelkasten-Setup-Guide"
+            }
+          },
+          {
+            "id": "ebb8f8a395163a92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1edbaf98ad48b9cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d81e1ed14a92e6fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian-Zettelkasten-Setup-Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian-Zettelkasten-Setup-Guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8d295869f0d66f1e",
+  "lastOpenFiles": [
+    "00 Inbox/New Text Document.txt",
+    "06 Daily Notes",
+    "New folder",
+    "05 Decision Journal",
+    "04 Essays & Writing",
+    "03 Book Notes",
+    "02 Synthesis",
+    "01 Zettelkasten",
+    "New folder (5)",
+    "New folder (4)",
+    "New folder (3)",
+    "Templates/Zettelkasten Note.md",
+    "Templates/Weekly Review.md",
+    "Templates/Synthesis Note.md",
+    "Templates/Meeting Note.md",
+    "Templates/Essay Draft.md",
+    "Templates/Decision Journal Entry.md",
+    "Templates/Daily Note.md",
+    "Templates/Book Note.md",
+    "Obsidian-Zettelkasten-Setup-Guide.md"
+  ]
+}
